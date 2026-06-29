@@ -53,7 +53,7 @@ Built with **pure HTML, CSS, and JavaScript** — no frameworks, no build tools.
 
 ```bash
 # Clone the repo
-git clone https://github.com/ziadmohamed0/Sarcos_web_site.git
+git clone https://github.com/ammarelshaf3y/Sarcos_web_site.git
 cd Sarcos_web_site
 
 # Or if already cloned, just push
@@ -68,7 +68,7 @@ Then in your GitHub repo:
 3. Select **main** branch and **/(root)** folder
 4. Click **Save**
 
-Your site will be live at `https://ziadmohamed0.github.io/Sarcos_web_site`
+Your site will be live at `https://ammarelshaf3y.github.io/Sarcos_project_web_site-`
 
 ## Local Development
 
