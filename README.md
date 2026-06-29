@@ -53,7 +53,7 @@ Built with **pure HTML, CSS, and JavaScript** — no frameworks, no build tools.
 
 ```bash
 # Clone the repo
-git clone https://github.com/ammarelshaf3y/Sarcos_web_site.git
+git clone https://github.com/ammarelshaf3y/Sarcos_project_web_site-.git
 cd Sarcos_web_site
 
 # Or if already cloned, just push
