@@ -117,4 +117,4 @@ Sarcos_web_site/
 
 ## License
 
-MIT &copy; 2026 Ziad Mohammed Fathy
+MIT © 2026 Ammar Yaser Elshaf3y
